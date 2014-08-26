@@ -3,8 +3,8 @@ title: AlgenonQ - the Blog
 #email: xxyour-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog describing the progress and plans for the calligraphy toolbox site.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://algenonq.github.io" # the base hostname & protocol for your site
 github_username:  algenonq
 
 # Build settings
