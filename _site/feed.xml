@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AlgenonQ - the Blog</title>
+    <description>Blog describing the progress and plans for the calligraphy toolbox site.
+</description>
+    <link>http://yourdomain.com/blog//</link>
+    <atom:link href="http://yourdomain.com/blog//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 26 Aug 2014 14:20:32 +1000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2014 14:20:32 +1000</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Welcome to Calligraphy ToolBox!</title>
+        <description>&lt;p&gt;In the beginning was the pen. Calligraphy is old. Most of the techniques have been around for centuries. Some of the composition tools (guidelines, templates, layout) are quite manually intensive. The ToolBox is here to speed up the process from idea to creation.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-to-begin&quot;&gt;Where to begin?&lt;/h2&gt;
+
+&lt;p&gt;At the begining. &lt;/p&gt;
+
+&lt;h3 id=&quot;what&quot;&gt;What?&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Speeding up the creation process&lt;/li&gt;
+  &lt;li&gt;Layout and Composition assistance&lt;/li&gt;
+  &lt;li&gt;Inspiration of new ideas&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;how&quot;&gt;How?&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Guideline Generators for printing (speed)&lt;/li&gt;
+  &lt;li&gt;Shaped Guideline Generators (speed,layout)&lt;/li&gt;
+  &lt;li&gt;Versals (layout, inspiration)&lt;/li&gt;
+  &lt;li&gt;Borders and Knots (speed, inspiration)&lt;/li&gt;
+  &lt;li&gt;Layout (layout, speed)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;I need to learn front end web technologies&lt;/li&gt;
+  &lt;li&gt;I want to challenge my design skills&lt;/li&gt;
+  &lt;li&gt;Layout will be technically very challenging&lt;/li&gt;
+  &lt;li&gt;I want these tools for my own projects&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So there you have it. In a nutshell I am providing a set of tools to help with my calligraphy projects which will hopefully benefit others.&lt;/p&gt;
+
+&lt;p&gt;The ToolBox will not be limited to the first set of tools. I suspect as people use the site, they will give feedback/contribute new tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;philosophy&quot;&gt;Philosophy&lt;/h3&gt;
+&lt;p&gt;This project is my first attempt at a totally client based web toolkit, in fact it will by my first public website. It will be constructed using a variety of open libraries and tools. I see no need to hide my work. Infact I hope others will learn from it. Also I hope to learn from any contributions or forks. I am sure there are many more talented devs than myself out there, just as I am sure that some of these tools may find uses beyond calligraphy. Consequently, the project will remain open for use and modification by others.&lt;/p&gt;
+
+&lt;p&gt;Any code will remain open under the MIT 2 paragraph licence.&lt;/p&gt;
+
+&lt;p&gt;The documentation as such will be released under the creative commons licence with the only requirement being attribution to the author.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+&lt;p&gt;So far is to release the tools in stages. &lt;/p&gt;
+
+&lt;p&gt;First up will be guidelines and shapes. These have been done as back-end tools and all I need to do is refactor them for front end javascript access.&lt;/p&gt;
+
+&lt;p&gt;The website will use the bootstrap framework and angular.js. &lt;/p&gt;
+
+&lt;p&gt;I am not anticipating supporting anything other than the latest HTML5 capable browsers.&lt;/p&gt;
+
+&lt;p&gt;The other tools will be developed once the first two are stable.&lt;/p&gt;
+
+&lt;p&gt;cheers&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 26 Aug 2014 23:32:16 +1000</pubDate>
+        <link>http://yourdomain.com/blog//calligraphy/toolbox/update/2014/08/26/where-to-begin.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//calligraphy/toolbox/update/2014/08/26/where-to-begin.html</guid>
+        
+        <category>calligraphy</category>
+        
+        <category>ToolBox</category>
+        
+        <category>algenonq</category>
+        
+        <category>programming</category>
+        
+        
+        <category>calligraphy</category>
+        
+        <category>toolbox</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Why Angular?</title>
+        <description>&lt;p&gt;After long consideration of jquery vs angular vs other framework, I have decided to go with angular. The main reason is that I like the modular and testable nature of the code. I also appreciate the plug-in pattern (dependency injection) nature of the framework. It is very powerful. The ability to create new tags in HTML is nice and expressive too. &lt;/p&gt;
+
+&lt;p&gt;The cons are obvious. It is kind of a cross between javascript and something new. Its markup syntax clashes with just about every server side markup syntax. It can be a bit convoluted, but i think in terms of readability, that may not be a bad thing.&lt;/p&gt;
+
+&lt;p&gt;There are a plethora of tutorials on the angular site, and also at egghead.io. &lt;/p&gt;
+
+&lt;p&gt;We also have an angular-centric environment at work, so what better way to play around with it than to build a site with a little client side complexit. &lt;/p&gt;
+
+&lt;p&gt;Next you’re going to ask why the toolkit is not generating pdfs at the server side? There are two reasons:
+1. simplicity. it is simpler to server “static” site. 
+2. focus. I only wanted to use client side libraries.
+3. To see if I could do it.&lt;/p&gt;
+
+&lt;p&gt;There may be some minimal server side storage implemented in the future - but I have no plans at the moment for anything other than dynamically created content. &lt;/p&gt;
+
+&lt;p&gt;Cheers 
+Aq &lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Aug 2014 00:00:00 +1000</pubDate>
+        <link>http://yourdomain.com/blog//calligraphy/toolbox/update/2014/08/26/why-angular.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//calligraphy/toolbox/update/2014/08/26/why-angular.html</guid>
+        
+        <category>angular</category>
+        
+        <category>algenonq</category>
+        
+        <category>programming</category>
+        
+        
+        <category>calligraphy</category>
+        
+        <category>toolbox</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
