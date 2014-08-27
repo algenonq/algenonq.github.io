@@ -5,7 +5,11 @@ date:   2014-08-26 13:32:16
 categories: Calligraphy ToolBox Update 
 tags: calligraphy ToolBox algenonq programming
 ---
-In the beginning was the pen. Calligraphy is old. Most of the techniques have been around for centuries. Some of the composition tools (guidelines, templates, layout) are quite manually intensive. The ToolBox is here to speed up the process from idea to creation.
+In the beginning was the pen. The pen is old.  Calligraphy is old. 
+
+In the arts and crafts movement of the late nineteenth century, there was a revival of interest in calligraphy. The tradition continues.
+
+While calligraphy itself constantly changes the supporting tools and techniques have been around for centuries. Some of the composition tools (guidelines, templates, layout) are quite manually intensive. In the age of instant feedback, preparation dulls participation. The ToolBox is here to simplify the path from idea to creation.
 
 Where to begin?
 ---------------
