@@ -4,7 +4,7 @@ title:  "Designing the framework"
 categories: Calligraphy Toolbox Update 
 tags: algenonq programming calligraphy ToolBox
 ---
-So I had a working jquery and [ink](http://ink.sapo.pt/ink "ink web user interface framework"). Well kind of working. 
+So I had a working jquery and [ink](http://ink.sapo.pt/ink "ink web user interface framework") app. Well kind of working. 
 
 I am currently transitioning to [bootstrap](http://getbootstrap.com/ "Bootstrap web user interface framework") and [angular](https://angularjs.org/ "angular javascript library"). 
 
