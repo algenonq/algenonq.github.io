@@ -1,9 +1,9 @@
 ---
-layout:	post 
-title:	"Calligraphy Toolbox Tools - Guidelines” 
-date:	2014-08-28 12:53:15 
-categories: calligraphy toolbox angular web 
-tags: calligraphy toolbox architecture angular
+layout: post
+title:  “Tools in the box - Guidelines”
+date:   2014-08-28 12:53:16
+categories: Calligraphy ToolBox architecture 
+tags: calligraphy ToolBox algenonq programming
 ---
 Part 1 - in the description of each of the tools included in the tool box. Guidelines help you write neatly.
 
