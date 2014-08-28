@@ -3,11 +3,9 @@ layout:	post
 title:	"Calligraphy Toolbox Tools - Guidelines” 
 date:	2014-08-28 12:53:15 
 categories: calligraphy toolbox angular web 
-tags:	calligraphy toolbox architecture angular
-comments: true
+tags: calligraphy toolbox architecture angular
 ---
 Part 1 - in the description of each of the tools included in the tool box. Guidelines help you write neatly.
-
 
 Guidelines
 ----------
