@@ -19,6 +19,7 @@ Broadly there will be a few shapes. Proportions may be changed and details such 
 I don’t want to use the term polygon. Calligraphers are not necessarily mathematically or technically minded.
 
 The basic shapes are:
+
 - rectangle: square through rectangle. Possibly rhombus and trapezoid or other quadrilaterals… 
 - ellipse: circle through oval. may stretch x or y direction.  
 - spiral: specify tightness and start point. May be non-arc (e.g. rectangular, hex-angular etc

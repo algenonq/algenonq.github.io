@@ -19,6 +19,7 @@ If no script or nib is selected, foundation hand and Speedball C0 will be select
 As in typography, each script in calligraphy has defined proportions which look “right”.
 
 The proportions defined are:
+
 - x-height: the height of the letter body e.g. the height of an “a”;
 - ascender: the height of the ascender above the body e.g. the tail of a “d”;  
 - descender: the depth of a descender below the body e.g. the tail of a “y”; and
