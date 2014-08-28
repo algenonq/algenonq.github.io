@@ -5,18 +5,18 @@ categories: calligraphy toolbox angular web
 tags: ["calligraphy ","toolbox ","architecture ","angular "]
 comments: true
 ---
+Application architecture and a discussion of how it might all fit together…
 
 #Application Architecture
 
-What is the application? 
-————————————
+##What is the application? 
+
 
 Well it is a loose collection of useful calligraphy tools, sharing a common user interface. I want the application to have consistent usage between the tools because the computer literacy of the intended users is low.
 
 Each of the tools will generate a PDF as the outcome. The user is then expected to print the PDF use with calligraphy projects.
 
-What are the tools?
-—————————
+##What are the tools?
 
 Not an exhaustive list but these are the planned tools. Each will be described in more detail in later posts.
 
@@ -27,8 +27,7 @@ Not an exhaustive list but these are the planned tools. Each will be described i
 + *Borders* - This is kind of a thought bubble at the moment. Thinking of some common vector shapes (leaves, flowers, geometric shapes) and some sort of algorithm for joining them up fancily.
 + *layout* - The hardest and the first tool that I wanted. Take a picture of a draft and move around in the browser for help with composition. 
 
-Architecture
-——————
+##Architecture
 TBD
 
 Cheers aQ
