@@ -1,12 +1,12 @@
 ---
 layout: post 
-title: "Calligraphy Toolbox - Tools” 
+title: "Calligraphy Toolbox Tools” 
 categories: calligraphy toolbox angular web 
-tags: ["calligraphy","toolbox","architecture","angular"]
+tags: calligraphy toolbox architecture angular
 comments: true
 ---
 
-#Tools Descriptions
+#Tool Descriptions
 
 Guidelines
 ----------
