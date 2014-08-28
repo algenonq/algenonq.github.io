@@ -20,10 +20,10 @@ I don’t want to use the term polygon. Calligraphers are not necessarily mathem
 
 The basic shapes are:
 
-- rectangle: square through rectangle. Possibly rhombus and trapezoid or other quadrilaterals… 
-- ellipse: circle through oval. may stretch x or y direction.  
-- spiral: specify tightness and start point. May be non-arc (e.g. rectangular, hex-angular etc
-- triangle: stretch base and/or height.
++ rectangle: square through rectangle. Possibly rhombus and trapezoid or other quadrilaterals… 
++ ellipse: circle through oval. may stretch x or y direction.  
++ spiral: specify tightness and start point. May be non-arc (e.g. rectangular, hex-angular etc
++ triangle: stretch base and/or height.
 
 Each shape may have an optional x-height line to guide writing. it will become too cluttered to include full guidelines.
 

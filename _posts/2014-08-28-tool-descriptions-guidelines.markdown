@@ -20,10 +20,10 @@ As in typography, each script in calligraphy has defined proportions which look 
 
 The proportions defined are:
 
-- x-height: the height of the letter body e.g. the height of an “a”;
-- ascender: the height of the ascender above the body e.g. the tail of a “d”;  
-- descender: the depth of a descender below the body e.g. the tail of a “y”; and
-- capitals: the height of a capital letter (not always the same as an ascender).
++ x-height: the height of the letter body e.g. the height of an “a”;
++ ascender: the height of the ascender above the body e.g. the tail of a “d”;  
++ descender: the depth of a descender below the body e.g. the tail of a “y”; and
++ capitals: the height of a capital letter (not always the same as an ascender).
 
 The dimensions used are always nib-widths. This means the proportions of the letter will remain the same regardless of the size.
 
