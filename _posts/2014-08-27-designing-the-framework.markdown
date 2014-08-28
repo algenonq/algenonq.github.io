@@ -1,8 +1,9 @@
 ---
 layout: post 
-title: "Designing the framework" 
+title: "Designing the framework"
+date: 2014-08-27 12:00
 categories: Calligraphy Toolbox Update
-tags:["algenonq", "programming ","calligraphy" ,"ToolBox" ]
+tags: algenonq programming calligraphy ToolBox
 ---
 So I had a working jquery and [ink](http://ink.sapo.pt) app. Well kind of working.
 
@@ -13,3 +14,4 @@ The bootstrap transition is relatively straight forward. Most of the grid and co
 However, I am new to angular. I am currently breaking down the application into modules, services, partials etc. It is quite straight forward but I need some common modules for generating pdf, configuration, logging etc. I am gong to do these locally in the [seed](https://github.com/angular/angular-seed) project for angular before uploading to github. I hope in the next day or so to blog the architecture of the application and a roadmap of implementation.
 
 Cheers aQ
+
