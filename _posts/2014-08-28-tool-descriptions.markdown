@@ -54,4 +54,6 @@ The generated guideline pdfs are to be downloaded from the browser and saved. It
 ### Workflow
 Experienced: Choose the script -> choose the pen -> adjust -> choose options -> save -> print
 
-Iteration from any state must be allowed and feedback given through a exemplar.
+Cheers
+aQ
+
