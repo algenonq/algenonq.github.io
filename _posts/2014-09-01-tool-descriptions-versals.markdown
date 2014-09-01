@@ -1,12 +1,10 @@
 ---
-
 layout: post 
 title: “Tools in the box - Versals” 
 date: 2014-09-01 10:00:00 
 categories: Calligraphy ToolBox architecture
 tags: calligraphy ToolBox algenonq programming
 ----------------------------------------------
-
 Part 3 - in the description of each of the tools included in the tool box. Versals are the large capitals often historiated or illuminated at the beginning of a passage.
 
 Versals
