@@ -1,0 +1,44 @@
+---
+layout: post 
+title:  “Progress and bootstrap” 
+date:   2014-09-16 10:00:00 
+categories: Calligraphy ToolBox architecture development
+tags:   calligraphy ToolBox algenonq programming
+---
+So life as always gets in the way of progress. I have finally had time to look at angular for bootstrap.
+
+Bootstrap
+-------
+
+###Why? 
+Well there are a few html/css/js frameworks to get a project up and running quickly. bootstrap seems to be one of the more popular. I also looked at ink. I like Ink very much and the prototype for this work was completed very quickly in Ink. But then I found angular components for bootstrap. 
+
+The concepts of bootstrap are not so different from ink's and i like the fact that you can apply different themes. That is pretty cool. But if I am going to be writing this site in angular, i wanted a little head start for that too.
+
+So I have had a look at the angular bootstrap tools. A lot of hte common components have been written as angular directives/controllers and services. This is work I would have had to do by hand, and part of the reason for procrastinating. I am good at that.
+
+So I have downloaded and compiled the bootstrap framework, the angular extensions and the seed project.
+
+
+Angular
+-------
+
+###Seed Project
+
+The seed project is a simple 2 view application with bare bones directives, controllers and services to get one started. The frustrating thing is the codeschool angular tutorial code was much nicer than the original angular tuorial code. As in easier to read. So being a javascript noob the code makes my head spin sometimes.
+
+
+However, it is great to leverage of all these brilliant projects to mashup a new application.
+
+So I have a basic seed application.
+
+#next
+
+1. I am about to convert it to a bootstrap application. 
+1. Design the UI. I have several ideas but I must keep in mind that the target audience are not particualarly technical. So it isn't going to be easy ...
+1. spike an angular wrapper around jsPDF
+
+That should do for now
+
+
+Cheers aQ
